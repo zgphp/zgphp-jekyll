@@ -5,3 +5,8 @@ timezone: Europe/Zagreb
 #paginate: 10
 permalink: /:year/:month/:title
 
+# Custom configuration, not related to jekyll
+custom:
+    disqus:
+        enabled: true
+        shortname: zgphptrial

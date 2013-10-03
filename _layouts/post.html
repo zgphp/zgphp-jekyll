@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-    <h1>{{  page.title  }}</h1>
+    <h1>{{ page.title }}</h1>
 
     <p class="meta">Objavljeno: <em>{{ page.date | localize:"%A, %d. %B %Y u %H:%M" }}</em></p>
 
@@ -19,8 +19,17 @@ layout: default
 
     <div class="clear">&nbsp;</div>
 
-    <div id="page-navigation">
+    {% if site.custom.disqus.enabled == true %}
+    <hr />
 
+    <div class="post-comments">
+        {% include disqus.html %}
+    </div>
+    {% endif %}
+
+    <hr />
+
+    <div class="post-navigation">
         <div class="pull-left">
         {% if page.category_prev.url %}
             <a href="{{ page.category_prev.url }}" title="Previous Post: {{ page.category_prev.title }}">&laquo; {{ page.category_prev.title }}</a>
