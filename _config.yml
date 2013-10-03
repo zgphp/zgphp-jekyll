@@ -2,6 +2,6 @@ name: ZgPHP Meetup
 markdown: redcarpet
 pygments: true
 timezone: Europe/Zagreb
-paginate: 10
+#paginate: 10
 permalink: /:year/:month/:title
 
