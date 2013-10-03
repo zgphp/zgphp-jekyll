@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1>{{  page.title  }}</h1>
+
+    <p class="meta">Objavljeno: <em>{{ page.date | localize:"%A, %d. %B %Y u %H:%M" }}</em></p>
+
+    {% if page.vimeo_id %}
+    <div class="responsive-video">
+        <iframe src="http://player.vimeo.com/video/{{ page.vimeo_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+    {% endif %}
+
+    <hr />
+
+    {{ content }}
+
+    <div class="clear">&nbsp;</div>
+
+    <div id="page-navigation">
+
+        <div class="pull-left">
+        {% if page.category_prev.url %}
+            <a href="{{ page.category_prev.url }}" title="Previous Post: {{ page.category_prev.title }}">&laquo; {{ page.category_prev.title }}</a>
+        {% endif %}
+        </div>
+
+        <div class="pull-right">
+        {% if page.category_next.url %}
+            <a href="{{ page.category_next.url }}" title="next Post: {{ page.category_next.title }}">{{ page.category_next.title }} &raquo; </a>
+        {% endif %}
+        </div>
+
+        <div class="clear">&nbsp;</div>
+    </div>
+</div>

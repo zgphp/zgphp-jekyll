@@ -1,0 +1,15 @@
+---
+author: zgphpmeetup
+comments: true
+date: 2012-09-18 08:24:49+00:00
+layout: post
+slug: zgphp-meetup-13-sold-out
+title: 'ZgPHP meetup #13: sold out'
+wordpress_id: 96
+---
+
+Prije par minuta je preuzeta i zadnja karta za sutrašnji meetup!
+
+Hvala svima i vidimo se sutra!
+
+![](http://zgphp.org/wp-content/uploads/2012/09/Screenshot.png)

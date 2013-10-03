@@ -1,0 +1,14 @@
+{% comment %}
+
+Displays a list of posts from the given category (the_category).
+
+{% endcomment %}
+
+{% for post in the_category %}
+    <div class="post">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <div class="meta">Objavljeno: <em>{{ post.date | localize:"%d. %B %Y u %H:%M" }}</em></div>
+        <div class="excerpt">{{ post.excerpt }}</div>
+    </div>
+    <hr />
+{% endfor %}
