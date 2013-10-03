@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-12-17 07:00:05+00:00
 layout: post
 slug: git-do-you-use-it
 title: Git motherfu*ker, do you use it?
-wordpress_id: 201
 tags:
 - video
 vimeo_id: 55510493

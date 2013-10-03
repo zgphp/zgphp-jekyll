@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-01-16 21:41:59+00:00
 layout: post
 slug: na-korak-do-punoljetnosti
 title: 'ZgPHP Meetup #17: Na korak do punoljetnosti'
-wordpress_id: 276
 ---
 
 Prilikom razvoja web aplikacija, gotovo uvijek govorimo kako bi performanse mogle biti bolje. Najčešće krivimo framework, MySQL pa čak i PHP te pokušavamo optimizirati aplikaciju bez jasne ideje koji dijelovi su zapravo spori. [Slaven Bačelić](http://twitter.com/sbacelic) će u svom predavanju zaviriti ispod haube nekoliko PHP aplikacija uz pomoć XHProf alata, a zatim ga usporediti sa [New Relicom](https://newrelic.com/).

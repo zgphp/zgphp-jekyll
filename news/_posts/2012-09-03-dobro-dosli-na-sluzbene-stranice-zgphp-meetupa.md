@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-09-03 23:18:47+00:00
 layout: post
 slug: dobro-dosli-na-sluzbene-stranice-zgphp-meetupa
 title: Dobro došli na službene stranice ZgPHP meetupa
-wordpress_id: 4
 ---
 
 Povodom prve godišnjice ZgPHP meetupa odlučili smo otvoriti službenu web

@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-06-10 12:17:10+00:00
 layout: post
 slug: zgphp-meetup-22
 title: 'ZgPHP meetup #22'
-wordpress_id: 543
 ---
 
 Meetup se održava u klubu Mama, Preradovićeva 18, u četvrtak 20. lipnja s početkom od 17:30.

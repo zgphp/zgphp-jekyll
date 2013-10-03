@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-09-13 00:04:36+00:00
 layout: post
 slug: prva-godina
 title: Prva godina
-wordpress_id: 64
 ---
 
 Od prvoga meetupa u Pivnici Medvedgrad je prošlo danas točno godinu dana. Za one koji se žele prisjetiti kako je to izgledalo (ili nisu bili): [http://www.rep.hr/vijesti/tehno-i-it/odrzan-prvi-php-meetup-u-zagrebu/3386/](http://www.rep.hr/vijesti/tehno-i-it/odrzan-prvi-php-meetup-u-zagrebu/3386/) a u novu sezonu predavanja idemo jači i brojniji!

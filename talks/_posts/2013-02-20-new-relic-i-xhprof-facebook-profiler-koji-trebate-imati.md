@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-02-20 15:15:20+00:00
 layout: post
 slug: new-relic-i-xhprof-facebook-profiler-koji-trebate-imati
 title: New relic i XHProf - Facebook profil(er) koji trebate imati
-wordpress_id: 380
 tags:
 - video
 vimeo_id: 59212919

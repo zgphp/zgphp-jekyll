@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-03-22 21:39:35+00:00
 layout: post
 slug: ez-publish-development
 title: Development vanjskih poslova i europskih integracija
-wordpress_id: 436
 tags:
 - video
 vimeo_id: 62084354

@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-05-06 17:20:03+00:00
 layout: post
 slug: symfony-2-radionica
 title: Symfony 2 radionica
-wordpress_id: 528
 tags:
 - radionica
 - symfony2

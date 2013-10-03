@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-07-30 07:13:42+00:00
 layout: post
 slug: zgphp-meetup-konferencija-2013
 title: ZgPHP meetup konferencija 2013
-wordpress_id: 574
 tags:
     - konferencija
 ---

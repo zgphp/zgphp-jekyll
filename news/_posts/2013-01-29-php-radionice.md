@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-01-29 20:41:06+00:00
 layout: post
 slug: php-radionice
 title: 'PHP radionice '
-wordpress_id: 352
 ---
 
 U 2013. godini planiramo organizirati seriju PHP radionica u kojima bi obradili nekolicinu popularnijih frameworka u PHP svijetu. Kako velika većina nas developera nema puno slobodnoga vremena ili mogućnosti istraživati nove alate, želja nam je dovesti ljude koji imaju iskustva i znanja te u nekoliko sati proći osnovne funkcionalnosti, mogućnosti i načine rješavanja problema.

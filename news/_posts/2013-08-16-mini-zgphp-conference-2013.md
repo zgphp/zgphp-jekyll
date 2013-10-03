@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-08-16 14:28:54+00:00
 layout: post
 slug: mini-zgphp-conference-2013
 title: Mini ZgPHP conference 2013
-wordpress_id: 589
 tags:
     -konferencija
 ---

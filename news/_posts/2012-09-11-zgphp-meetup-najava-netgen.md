@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-09-11 11:56:46+00:00
 layout: post
 slug: zgphp-meetup-najava-netgen
 title: 'ZgPHP meetup najava: Netgen'
-wordpress_id: 40
 tags:
 - 1godisnjica
 - meetup

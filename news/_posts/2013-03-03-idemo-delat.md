@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-03-03 20:49:19+00:00
 layout: post
 slug: idemo-delat
 title: 'ZgPHP Meetup #19: Idemo delat'
-wordpress_id: 418
 ---
 
 Radite li web aplikacije svaki put od nule? Bedaki! Mozda su tako delali naši stari, no novi su mangupi u gradu. Proljetni ZgPHP meetup vam predstavlja dva frameworka kako bi mogli imati even, avan, eden... edventiđ.

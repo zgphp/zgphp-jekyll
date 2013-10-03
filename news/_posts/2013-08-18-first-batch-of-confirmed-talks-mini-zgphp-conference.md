@@ -1,11 +1,8 @@
 ---
-author: zgphpmeetup
-comments: true
 date: 2013-08-18 19:45:38+00:00
 layout: post
 slug: first-batch-of-confirmed-talks-mini-zgphp-conference
 title: First batch of confirmed talks, mini ZgPHP conference
-wordpress_id: 606
 tags:
     -konferencija
 ---

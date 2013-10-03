@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-10-19 12:39:41+00:00
 layout: post
 slug: lamp-scaling-10
 title: LAMP Scaling 101
-wordpress_id: 143
 tags:
 - video
 vimeo_id: 51802161

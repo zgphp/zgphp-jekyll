@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-11-11 22:10:23+00:00
 layout: post
 slug: petnaesti-meetup-uz-composer-i-git
 title: Petnaesti meetup uz Composer i Git
-wordpress_id: 161
 ---
 
 Nismo se ni okrenuli, a već je vrijeme za petnaesti po redu ZgPHP meetup. U skladu s tradicijom i ovaj put imamo zanimljivih i kontraverznih tema

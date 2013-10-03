@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-05-04 17:27:03+00:00
 layout: post
 slug: kako-me-hacknuo-anonimus
 title: Kako me hacknuo Anonimus
-wordpress_id: 519
 tags:
 - video
 

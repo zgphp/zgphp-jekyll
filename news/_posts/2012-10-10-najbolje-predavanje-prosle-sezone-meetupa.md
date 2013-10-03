@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-10-10 10:06:45+00:00
 layout: post
 slug: najbolje-predavanje-prosle-sezone-meetupa
 title: Najbolje predavanje prošle sezone meetupa
-wordpress_id: 140
 ---
 
 Nakon desetak dana glasovanja na [ZgPHP meetup facebook grupi](https://www.facebook.com/groups/109975399119270/) za najbolje predavanje, stanje je prilično jasno.

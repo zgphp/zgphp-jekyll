@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-02-08 13:19:45+00:00
 layout: post
 slug: nije-sve-u-kodu
 title: 'ZgPHP Meetup #18: Nije sve u kodu'
-wordpress_id: 377
 ---
 
 I tako prošlo je već godinu i pol od prvoga meetupa i nastavljamo punom parom!

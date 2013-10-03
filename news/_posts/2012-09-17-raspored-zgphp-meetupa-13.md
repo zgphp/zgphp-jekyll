@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-09-17 18:17:46+00:00
 layout: post
 slug: raspored-zgphp-meetupa-13
 title: 'Raspored ZgPHP meetupa #13'
-wordpress_id: 84
 ---
 
 Prostorije Zagrebačkog inkubatora poduzetništva u [Zvonimirovoj 8](http://goo.gl/maps/WK8po), ugostit će u srijedu 19. rujna proslavu prve godišnjice okupljanja zagrebačkih PHP developera. Iza naziva ZgPHP meetup, krije se poveći broj zagrebačkih developera koji jednom mjesečno organiziraju predavanja kako bi educirali i poticali na razmjenu ideja i stečenog znanja.

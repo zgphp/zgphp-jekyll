@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-04-25 09:51:29+00:00
 layout: post
 slug: zgphp-meetup-21
 title: 'ZgPHP meetup #21'
-wordpress_id: 502
 ---
 
 21i ZgPHP meetup će se održati u četvrtak 9. svibnja 2013. na starom mjestu, u [Klubu Mama](http://www.mi2.hr/), Preradovićeva 18.

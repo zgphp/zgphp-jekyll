@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-09-12 12:17:56+00:00
 layout: post
 slug: zgphp-meetup-najava-istudio
 title: 'ZgPHP meetup najava: iStudio'
-wordpress_id: 50
 ---
 
 iSTUDIO je mlada tvrtka, stara svega 3 godine. Trenutno iSTUDIO broji 35 zaposlenih s uredima u Zagrebu, Mostaru, a prisutna je i u Beogradu.

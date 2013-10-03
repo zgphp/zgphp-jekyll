@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-02-27 19:49:28+00:00
 layout: post
 slug: popust-za-odlazak-na-phpday-jsday-verona-2013
 title: Popust za odlazak na PHPDay & JSDay - Verona 2013
-wordpress_id: 412
 tags:
 - jsday
 - phday

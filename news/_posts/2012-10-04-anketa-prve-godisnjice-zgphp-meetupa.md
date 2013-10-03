@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-10-04 19:59:58+00:00
 layout: post
 slug: anketa-prve-godisnjice-zgphp-meetupa
 title: Anketa prve godišnjice ZgPHP meetupa
-wordpress_id: 121
 ---
 
 Na prošlome meetupu smo podijelili anketu koja se sastojala od 2 dijela: o članstvu odnosno prezentacijama tvrtki.

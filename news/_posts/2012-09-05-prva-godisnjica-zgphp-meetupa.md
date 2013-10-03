@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-09-05 13:33:37+00:00
 layout: post
 slug: prva-godisnjica-zgphp-meetupa
 title: 'Prva godišnjica ZgPHP meetupa '
-wordpress_id: 24
 ---
 
 Povodom prve godišnjice ZgPHP meetupa 19. rujna od 18 sati u prostorijama Zagrebačkog inkubatora poduzetništva, Zvonimirova 8 bit će organizirano predstavljanje vodećih tvrtki Zagreba i okolice, koje svoje poslovanje temelje na PHP-u.

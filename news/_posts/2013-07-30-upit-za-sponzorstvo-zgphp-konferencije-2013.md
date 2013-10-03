@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-07-30 07:01:30+00:00
 layout: post
 slug: upit-za-sponzorstvo-zgphp-konferencije-2013
 title: Upit za sponzorstvo ZgPHP konferencije 2013
-wordpress_id: 568
 tags:
 - konferencija
 ---

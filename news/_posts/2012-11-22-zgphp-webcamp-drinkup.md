@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-11-22 22:57:13+00:00
 layout: post
 slug: zgphp-webcamp-drinkup
 title: ZgPHP WebCamp drinkup
-wordpress_id: 174
 ---
 
 Povodom subotnjega WebCampa odlučili smo organizirati ZgPHP drinkup u petak sa kolegama koji dolaze iz Novoga Sada i Beograda.

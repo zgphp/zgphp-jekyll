@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-10-08 10:56:14+00:00
 layout: post
 slug: zgphp-meetup-14-u-nove-ratne-pobjede
 title: 'ZgPHP Meetup #14 - U nove ratne pobjede!'
-wordpress_id: 132
 ---
 
 Nakon prvog rođendana, uspješnog predstavljanja tvrtki i najposjećenijeg meetupa do sada, vrijeme je za povratak na tehnološke teme, a istovremeno i povratak u prostore Mame u Preradovićevoj 18 (karta: [http://bit.ly/QLhdIj](http://bit.ly/QLhdIj)).

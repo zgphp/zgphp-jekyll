@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-03-08 08:29:06+00:00
 layout: post
 slug: sigurnost-web-aplikacija
 title: Sigurnost web aplikacija
-wordpress_id: 425
 tags:
 - video
 vimeo_id: 60533154

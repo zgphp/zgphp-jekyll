@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-11-22 22:28:47+00:00
 layout: post
 slug: composer-bolji-dependency-management
 title: Composer za bolji dependency management
-wordpress_id: 167
 tags:
 - video
 vimeo_id: 54094660

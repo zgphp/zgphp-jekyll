@@ -1,11 +1,8 @@
 ---
-author: zgphpmeetup
-comments: true
 date: 2013-07-10 10:22:37+00:00
 layout: post
 slug: goran-juric-doctrine-orm
 title: Goran Jurić – Doctrine ORM
-wordpress_id: 556
 tags:
 - video
 

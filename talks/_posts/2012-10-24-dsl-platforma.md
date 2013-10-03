@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2012-10-24 22:50:48+00:00
 layout: post
 slug: dsl-platforma
 title: DSL platforma
-wordpress_id: 150
 tags:
 - video
 vimeo_id: 52085409

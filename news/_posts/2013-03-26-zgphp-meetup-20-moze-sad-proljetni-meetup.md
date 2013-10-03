@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-03-26 20:09:38+00:00
 layout: post
 slug: zgphp-meetup-20-moze-sad-proljetni-meetup
 title: 'ZgPHP Meetup #20: Može sad proljetni meetup?'
-wordpress_id: 455
 ---
 
 Dok pišemo ovu najavu vani je mećava, ali do našeg sljedećeg susreta se nadamo ipak malo proljetnijim uvjetima. Dvadeseti ZgPHP meetup će se održati u četvrtak 18. travnja 2013. na starom mjestu, u [Klubu Mama](http://www.mi2.hr/), Preradovićeva 18. Na njemu vas čekaju dva informativna i uzbudljiva predavanja.

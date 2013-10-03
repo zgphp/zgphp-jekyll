@@ -1,11 +1,9 @@
 ---
-author: zgphpmeetup
 comments: true
 date: 2013-07-08 08:00:35+00:00
 layout: post
 slug: robert-sorn-strife-for-happiness
 title: Robert Šorn – Strife for happiness
-wordpress_id: 552
 tags:
 - video
 
