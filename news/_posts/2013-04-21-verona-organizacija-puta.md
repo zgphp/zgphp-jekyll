@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-04-21 15:35:57+00:00
 layout: post
 slug: verona-organizacija-puta

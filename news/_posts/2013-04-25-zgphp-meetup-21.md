@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-04-25 09:51:29+00:00
 layout: post
 slug: zgphp-meetup-21

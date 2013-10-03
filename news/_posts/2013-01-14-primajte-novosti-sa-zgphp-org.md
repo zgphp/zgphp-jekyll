@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-14 16:49:30+00:00
 layout: post
 slug: primajte-novosti-sa-zgphp-org

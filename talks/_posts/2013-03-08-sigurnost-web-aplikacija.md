@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-03-08 08:29:06+00:00
 layout: post
 slug: sigurnost-web-aplikacija

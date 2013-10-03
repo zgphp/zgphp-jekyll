@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-09-05 13:33:37+00:00
 layout: post
 slug: prva-godisnjica-zgphp-meetupa

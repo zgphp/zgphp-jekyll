@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-12-02 19:43:51+00:00
 layout: post
 slug: najava-drupal-balkan-samit-2012-u-zagrebu

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-11-22 22:57:13+00:00
 layout: post
 slug: zgphp-webcamp-drinkup

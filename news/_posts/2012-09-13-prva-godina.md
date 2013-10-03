@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-09-13 00:04:36+00:00
 layout: post
 slug: prva-godina

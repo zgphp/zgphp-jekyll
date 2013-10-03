@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-02-07 13:51:07+00:00
 layout: post
 slug: grupni-odlazak-na-phpday-2013-u-veronu

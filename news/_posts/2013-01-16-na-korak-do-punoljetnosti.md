@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-16 21:41:59+00:00
 layout: post
 slug: na-korak-do-punoljetnosti

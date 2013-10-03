@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-02-08 13:19:45+00:00
 layout: post
 slug: nije-sve-u-kodu

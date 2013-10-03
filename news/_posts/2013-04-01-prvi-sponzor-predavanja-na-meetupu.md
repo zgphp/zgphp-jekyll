@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-04-01 10:02:51+00:00
 layout: post
 slug: prvi-sponzor-predavanja-na-meetupu

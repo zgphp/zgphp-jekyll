@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-10-24 22:50:48+00:00
 layout: post
 slug: dsl-platforma

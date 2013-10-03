@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-11-11 22:10:23+00:00
 layout: post
 slug: petnaesti-meetup-uz-composer-i-git

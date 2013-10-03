@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-04-16 13:11:12+00:00
 layout: post
 slug: phalcon-php-framework

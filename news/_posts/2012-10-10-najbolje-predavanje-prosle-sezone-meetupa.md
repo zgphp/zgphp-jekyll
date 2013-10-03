@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-10-10 10:06:45+00:00
 layout: post
 slug: najbolje-predavanje-prosle-sezone-meetupa

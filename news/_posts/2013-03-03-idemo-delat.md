@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-03-03 20:49:19+00:00
 layout: post
 slug: idemo-delat

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-11-04 12:10:32+00:00
 layout: post
 slug: kratka-najava-zgphp-meetup-15

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-03-22 21:39:35+00:00
 layout: post
 slug: ez-publish-development

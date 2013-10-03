@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-11-22 22:28:47+00:00
 layout: post
 slug: composer-bolji-dependency-management

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-12-17 07:00:05+00:00
 layout: post
 slug: git-do-you-use-it

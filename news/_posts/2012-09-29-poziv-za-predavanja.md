@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-09-29 07:33:52+00:00
 layout: post
 slug: poziv-za-predavanja

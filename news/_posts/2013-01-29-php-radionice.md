@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-29 20:41:06+00:00
 layout: post
 slug: php-radionice

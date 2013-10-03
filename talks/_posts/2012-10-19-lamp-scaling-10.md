@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-10-19 12:39:41+00:00
 layout: post
 slug: lamp-scaling-10

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-09-03 23:18:47+00:00
 layout: post
 slug: dobro-dosli-na-sluzbene-stranice-zgphp-meetupa

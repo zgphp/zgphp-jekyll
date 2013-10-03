@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-04-18 11:26:08+00:00
 layout: post
 slug: symfony2-php-framework

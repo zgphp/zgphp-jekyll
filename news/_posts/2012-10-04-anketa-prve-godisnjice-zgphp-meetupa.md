@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-10-04 19:59:58+00:00
 layout: post
 slug: anketa-prve-godisnjice-zgphp-meetupa

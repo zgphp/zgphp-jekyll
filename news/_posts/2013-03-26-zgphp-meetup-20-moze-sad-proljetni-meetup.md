@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-03-26 20:09:38+00:00
 layout: post
 slug: zgphp-meetup-20-moze-sad-proljetni-meetup

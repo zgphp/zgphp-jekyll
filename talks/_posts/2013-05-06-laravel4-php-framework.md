@@ -1,11 +1,8 @@
 ---
-comments: true
 date: 2013-05-06 08:40:23+00:00
 layout: post
 slug: laravel4-php-framework
 title: Laravel4 PHP framework
-categories:
-- predavanja
 tags:
 - video
 

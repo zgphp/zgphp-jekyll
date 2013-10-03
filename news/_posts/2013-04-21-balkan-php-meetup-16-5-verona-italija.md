@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-04-21 15:29:15+00:00
 layout: post
 slug: balkan-php-meetup-16-5-verona-italija

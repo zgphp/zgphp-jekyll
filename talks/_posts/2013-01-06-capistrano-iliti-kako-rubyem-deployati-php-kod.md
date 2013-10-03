@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-06 07:00:39+00:00
 layout: post
 slug: capistrano-iliti-kako-rubyem-deployati-php-kod

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-12-02 19:48:50+00:00
 layout: post
 slug: sesnaesti-meetup-merry-meetup-everyone

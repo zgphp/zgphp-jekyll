@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-08-18 19:29:24+00:00
 layout: post
 slug: mini-zgphp-conference-extra-week-on-call-for-paper-deadline

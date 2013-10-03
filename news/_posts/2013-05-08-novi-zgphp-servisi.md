@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-05-08 11:54:59+00:00
 layout: post
 slug: novi-zgphp-servisi
