@@ -7,6 +7,9 @@ tags:
     -konferencija
 ---
 
-We got requests to prolong our call for paper deadline, so we added an extra week. Call for papers will be opened till August 25th, 2013 and please contact us by e-mail on zgphpmeetup [at] gmail [dot] com with title, short abstract and your biography.
+We got requests to prolong our call for paper deadline, so we added an extra
+week. Call for papers will be opened till August 25th, 2013 and please contact
+us by e-mail on zgphpmeetup [at] gmail [dot] com with title, short abstract and
+your biography.
 
 **UPDATE:** [Our conference site is up, click here.](http://2013.zgphp.org/)
