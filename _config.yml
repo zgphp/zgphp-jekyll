@@ -7,6 +7,9 @@ pygments: true
 timezone: Europe/Zagreb
 permalink: /:year/:month/:title
 
+pagination: true
+paginate: 10
+
 # Custom configuration, not related to jekyll
 custom:
     disqus:

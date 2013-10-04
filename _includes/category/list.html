@@ -1,10 +1,4 @@
-{% comment %}
-
-Displays a list of posts from the given category (the_category).
-
-{% endcomment %}
-
-{% for post in the_category %}
+{% for post in paginator.posts %}
     <div class="post">
         <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
         <div class="meta">Objavljeno: <em>{{ post.date | localize:"%d. %B %Y u %H:%M" }}</em></div>
@@ -12,3 +6,5 @@ Displays a list of posts from the given category (the_category).
     </div>
     <hr />
 {% endfor %}
+
+{{ paginator | pager_links }}
