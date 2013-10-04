@@ -21,6 +21,12 @@ h2 { font-size: 24px }
     }
 }
 
+/* Social icons */
+.social-icons a { display: inline-block; height: 64px; width: 64px; background: no-repeat center center; margin: 5px; border-radius: 5px }
+.social-icons a.facebook { background: #3b5998 url('/images/icons/facebook-64.png') }
+.social-icons a.rss { background: #ff8300 url('/images/icons/rss-64.png') }
+.social-icons a.twitter { background: #00aced url('/images/icons/twitter-64.png') }
+
 /* Wrapper div for videos to make them resize responsively. */
 .responsive-video { position: relative; padding-bottom: 52.75%; padding-top: 30px; height: 0; overflow: hidden; }
 .responsive-video iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }

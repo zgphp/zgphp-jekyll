@@ -1,8 +1,10 @@
 name: ZgPHP Meetup
+description: Druženja PHP developera iz Zagreba i okolice
+url: http://www.zgphp.org
+
 markdown: redcarpet
 pygments: true
 timezone: Europe/Zagreb
-#paginate: 10
 permalink: /:year/:month/:title
 
 # Custom configuration, not related to jekyll
