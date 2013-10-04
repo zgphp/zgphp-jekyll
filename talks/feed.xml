@@ -2,6 +2,6 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-{% assign the_name = "Novosti" %}
-{% assign the_category = site.categories.news %}
+{% assign the_name = "Predavanja" %}
+{% assign the_category = site.categories.talks %}
 {% include category/feed.xml %}

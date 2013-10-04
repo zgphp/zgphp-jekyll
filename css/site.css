@@ -42,6 +42,6 @@ h2 { font-size: 24px }
  */
 html, body { height: 100% }
 #wrap { min-height: 100% }
-#main { overflow:auto; padding-bottom:150px }
-footer { position: relative; margin-top: -120px; height: 120px; clear:both }
+#main { overflow:auto; padding-bottom: 250px } /* important: bottom padding > footer height */
+footer { position: relative; margin-top: -220px; height: 220px; clear:both }
 footer { color: white; background-color: #1f2c39; padding: 30px 0 }
