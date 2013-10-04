@@ -6,6 +6,7 @@ title: New relic i XHProf - Facebook profil(er) koji trebate imati
 tags:
 - video
 vimeo_id: 59212919
+image: http://b.vimeocdn.com/ts/411/414/411414182_1280.jpg
 ---
 
 Prilikom razvoja web aplikacija, gotovo uvijek govorimo kako bi performanse mogle biti bolje. Najčešće krivimo framework, MySQL pa čak i PHP te pokušavamo optimizirati aplikaciju bez jasne ideje koji dijelovi su zapravo spori. [Slaven Bačelić](http://twitter.com/sbacelic) će u svom predavanju zaviriti ispod haube nekoliko PHP aplikacija uz pomoć XHProf alata, a zatim ga usporediti sa [New Relicom](https://newrelic.com/).

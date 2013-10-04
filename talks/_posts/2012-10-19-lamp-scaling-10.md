@@ -6,6 +6,7 @@ title: LAMP Scaling 101
 tags:
 - video
 vimeo_id: 51802161
+image: http://b.vimeocdn.com/ts/357/287/357287644_1280.jpg
 ---
 
 Svi volimo gledati statistiku posjećenosti naših web stranica i aplikacija,
