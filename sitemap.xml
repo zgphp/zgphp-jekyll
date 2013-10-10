@@ -1,0 +1,29 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Pages -->
+    {% for page in site.pages %}
+    {% if page.layout != 'none' %}
+    {% assign url = page.url | remove:'index.html' %}
+    <url>
+        <loc>{{ site.url }}{{ page.url | remove:'index.html' }}</loc>
+        <changefreq>daily</changefreq>
+        <lastmod>{{ site.time | date:"%Y-%m-%d"}}</lastmod>
+    </url>
+    {% endif %}
+    {% endfor %}
+
+    <!-- Posts -->
+    {% for post in site.posts %}
+    {% if post.layout != 'none' %}
+    {% assign url = post.url | remove:'index.html' %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    {% endif %}
+    {% endfor %}
+</urlset>
