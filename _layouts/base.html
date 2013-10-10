@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{% assign url = page.url|remove:'index.html' %}
 <html>
 <head>
     <meta charset="utf-8">
@@ -8,12 +9,16 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:site_name" content="ZgPHP Meetup" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ url }}" />
     {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
     <meta property="og:image" content="{{ site.url }}/images/logo/zgphp.png" />
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}" />{% else %}<meta property="og:description" content="{{ page.title }}" />{% endif %}
 
-    <title>{{ page.title }}</title>
+    {% if url == '/' %}
+    <title>ZgPHP Meetup</title>
+    {% else %}
+    <title>{{ page.title }} - ZgPHP Meetup</title>
+    {% endif %}
 
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700&subset=latin,latin-ext">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
