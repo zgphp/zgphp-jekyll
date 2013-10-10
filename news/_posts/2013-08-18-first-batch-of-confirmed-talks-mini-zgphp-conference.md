@@ -7,7 +7,8 @@ tags:
     -konferencija
 ---
 
-Preparations for first PHP conference in South East Europe are going great, last friday we announced first confirmed talks:
+Preparations for first PHP conference in South East Europe are going great, last
+friday we announced first confirmed talks:
 
 * [Maja Bilić](https://twitter.com/bilicmaja): Zgode i nezgode žena u IT industriji
 * [Milan Popović](https://twitter.com/komita1981): Redis i PHP
@@ -17,8 +18,10 @@ Preparations for first PHP conference in South East Europe are going great, last
 * [Ivan Habunek](https://twitter.com/ihabunek): Travis CI
 * [Srdjan Vranac](https://twitter.com/vranac): Vagrant i mi
 
-Got ticket? Grab one [here](http://www.meetup.com/ZgPHP-meetup/events/132112512/).
-
-More details about talks will be published this week, did you get you ticket? They are available [HERE](http://www.meetup.com/ZgPHP-meetup/events/132112512/). (you have to register on meetup.com and RSVP to this event).
+More details about talks will be published this week, did you get you ticket?
+They are available [HERE][tickets]. (you have to register on meetup.com and RSVP
+to this event).
 
 **UPDATE:** [Our conference site is up, click here.](http://2013.zgphp.org/)
+
+[tickets]: http://www.meetup.com/ZgPHP-meetup/events/132112512/

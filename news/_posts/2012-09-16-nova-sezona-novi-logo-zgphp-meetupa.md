@@ -5,10 +5,14 @@ slug: nova-sezona-novi-logo-zgphp-meetupa
 title: Nova sezona, novi logo ZgPHP meetupa
 ---
 
-U novu sezonu ZgPHP meetupa ulazimo sa novim logom:
+U novu sezonu ZgPHP meetupa ulazimo sa novim logom.
 
-![ZgPHP logo](http://zgphp.org/wp-content/uploads/2012/09/zgPhp_big_logo.jpg)
+![ZgPHP logo](/images/logo/zgphp.png)
 
-Puno hvala [Damiru Brekalu](http://www.facebook.com/damir.brekalo) za ovaj logo!
+Puno hvala [Damiru Brekalu][brekalo] za ovaj logo!
 
-Ako ste zaboravili uzeti svoju kartu za [rujanski meetup](http://zgphp.org/2012/09/prva-godisnjica-zgphp-meetupa/) požurite.
+Ako ste zaboravili uzeti svoju kartu za [rujanski meetup][rujan] požurite.
+
+[logo]: /images/logo/zgphp.png
+[brekalo]: http://www.facebook.com/damir.brekalo
+[rujan]: /2012/09/prva-godisnjica-zgphp-meetupa/

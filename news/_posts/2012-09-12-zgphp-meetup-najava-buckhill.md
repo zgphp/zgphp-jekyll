@@ -25,6 +25,6 @@ We are specialized in:
 
 
 
-Ako želite čuti više o njima [prijavite se na rujanski meetup](http://zgphp.org/2012/09/prva-godisnjica-zgphp-meetupa/).
+Ako želite čuti više o njima [prijavite se na rujanski meetup](/2012/09/prva-godisnjica-zgphp-meetupa/).
 
 
