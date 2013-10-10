@@ -14,4 +14,4 @@ paginate: 10
 custom:
     disqus:
         enabled: true
-        shortname: zgphptrial
+        shortname: zgphp
