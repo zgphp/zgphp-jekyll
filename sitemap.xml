@@ -9,7 +9,7 @@ layout: none
     {% if page.layout != 'none' %}
     {% assign url = page.url | remove:'index.html' %}
     <url>
-        <loc>{{ site.url }}{{ page.url | remove:'index.html' }}</loc>
+        <loc>{{ site.url }}{{ url }}</loc>
         <changefreq>daily</changefreq>
         <lastmod>{{ site.time | date:"%Y-%m-%d"}}</lastmod>
         {% if url == '/' %}
