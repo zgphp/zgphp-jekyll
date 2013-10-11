@@ -12,18 +12,18 @@ layout: none
         <loc>{{ site.url }}{{ page.url | remove:'index.html' }}</loc>
         <changefreq>daily</changefreq>
         <lastmod>{{ site.time | date:"%Y-%m-%d"}}</lastmod>
+        {% if url == '/' %}
+        <priority>1</priority>
+        {% endif %}
     </url>
     {% endif %}
     {% endfor %}
 
     <!-- Posts -->
     {% for post in site.posts %}
-    {% if post.layout != 'none' %}
-    {% assign url = post.url | remove:'index.html' %}
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
         <changefreq>monthly</changefreq>
     </url>
-    {% endif %}
     {% endfor %}
 </urlset>
