@@ -17,7 +17,7 @@ o njihovim fizičkim i virtualnim lokacijama. Zvuči super, ali nije bez mana �
 specifikacija protokola je ogromna, stvar je daleko od jednostavne i uključuje
 puno (brrr) XML-a.
 
-#### Ivan Husnjak - Mago, Markup Generator for HTML/XML
+#### Ivan Hušnjak - Mago, Markup Generator for HTML/XML
 
 Mago nije samo alat, to je ujedno i jezik sa svojom sintaksom pa će mnogo
 developera reći: “Ako već znam HTML, zašto bi sad trebao naučiti Mago?” Istina,
@@ -30,3 +30,5 @@ Nadamo se da smo vas ovime zainteresirali da nam se pridruzite u četvrtak, 17.
 listopada 2013. godine u Preradovićevoj 18, Zagreb s početkom u 17.30 sati.
 Javite nam da dolazite kako bi se bolje organizirali i rezervirali dovoljan broj
 mjesta za neslužbeni dio druženja u Koldingu, Berislavićeva 8 od 19.30 sati.
+
+<a target="_blank" href="http://www.meetup.com/ZgPHP-meetup/events/140394332/" class="btn btn-primary">Prijavi dolazak</a>
